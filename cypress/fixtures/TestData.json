@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+  "bookmarks": ["Platform","Synthetic Data","Resources","Company","Pricing"],
+  "companyOverviewList": ["Jobs","Press Releases","Contact","InTheNews"],
+  "searchResultText":"Sorry, no results for:",
+  "searchedText":"sythetic"
+  },
+  "ContactUs": {
+  "sendMessageSuccessMessage":"Thanks for submitting your message. We will get back to you shortly!",
+  "sendMessageText":"Do you have a question about synthetic data? Send us a message!",
+  "popUpTitle":"Ask us anything!",
+  "formData": ["John","Smith","test12345@mba.com","+4946321545","mba","Germany","online","qa"],
+  "successForm" : "https://api-js.mixpanel.com/track/?verbose"
+  }
+}
