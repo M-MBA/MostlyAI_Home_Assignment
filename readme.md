@@ -67,4 +67,19 @@ Follow these steps to run the automated tests:
 
 6. **View Test Results**: After the tests run, you can view the test results in the Cypress Test Runner. Additionally, test results is integrated with TestRail for more comprehensive tracking.
 
+## Access Information
+
+### Domain Link
+
+The TestRail instance can be accessed using the following domain link:
+
+- Domain: [testrail-domain](https://mmoosstt.testrail.io)
+  
+### Login Credentials
+
+Please use the following credentials to log in:
+
+- Username: `tangiev1990@durablecanada.com`
+- Password: `Test123.`
+
 ![Sample Report](testrailReportSample.png)
