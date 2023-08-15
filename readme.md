@@ -66,3 +66,5 @@ Follow these steps to run the automated tests:
    ```
 
 6. **View Test Results**: After the tests run, you can view the test results in the Cypress Test Runner. Additionally, test results is integrated with TestRail for more comprehensive tracking.
+
+![Sample Report](testrailReportSample.png)
