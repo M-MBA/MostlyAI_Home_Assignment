@@ -79,7 +79,7 @@ The TestRail instance can be accessed using the following domain link:
 
 Please use the following credentials to log in:
 
-- Username: `tangiev1990@durablecanada.com`
+- Username: `tangiev1990@durablecanada.com` (Its by faker)
 - Password: `Test123.`
 
 ![Sample Report](testrailReportSample.png)
